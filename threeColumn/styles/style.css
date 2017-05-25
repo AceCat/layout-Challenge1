@@ -1,0 +1,54 @@
+
+body {
+	margin: 0px 40px 0px 40px;
+}
+
+header {
+	width: 97%;
+	height: 50px;
+	background-color: grey;
+	margin: 0px 20px 20px 20px;
+}
+
+.smallColumn {
+	float: left;
+	width: 22%;
+	height: 500px;
+	background-color: grey;
+	margin-right: 20px;
+
+}
+
+.smallColumnLeft {
+	float: left;
+	width: 22%;
+	height: 500px;
+	background-color: grey;
+	margin-right: 20px;
+	margin-left: 20px;
+
+}
+
+.column2 {
+	float: left;
+	width: 50%;
+	height: 500px;
+	background-color: grey;
+	margin-right: 20px;
+
+}
+
+.globalMargin {
+	margin: 0 auto;
+}
+
+.divider {
+	clear: left;
+}
+
+footer {
+	width: 97%;
+	height: 50px;
+	background-color: grey;
+	margin: 20px 20px 0px 20px;
+}
